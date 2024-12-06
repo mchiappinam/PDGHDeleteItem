@@ -1,0 +1,9 @@
+name: PDGHDeleteItem
+main: me.mchiappinam.pdghdeleteitem.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/ & https://hostload.com.br/
+commands:
+   deleteitem:
+      description: Info.
+      usage: /<command>
